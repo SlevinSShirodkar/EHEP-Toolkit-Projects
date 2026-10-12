@@ -1118,15 +1118,6 @@ void baseAna::BookHistograms()
 
   h.jetInvM_test[0] = new TH1F("M_jet_test1", "M_jet (84 < Mll < 105)", 200, 0, 200);
   h.jetInvM_test[1] = new TH1F("M_jet_test2", "M_jet (50 < Mll < 85)", 200, 0, 200);
-
-  //===========================================================================================================================
-  //                                    S I G N A L / B A C K G R O U N D
-  //===========================================================================================================================
-  h.good_events =  new TH1F("mujj_events","No. of mujj events",5,0,5);
-  h.good_events_selec[0] =  new TH1F("mujj_events_selec","No. of mujj events MET cut",5,0,5);
-  h.good_events_selec[1] =  new TH1F("mujj_events_selec2","No. of mujj events j1 eta cut",5,0,5);
-  h.good_events_selec[2] =  new TH1F("mujj_events_selec3","No. of mujj events j1j2 dPhi cut",5,0,5);
-  h.sum_pT = new TH1F("sum_pT", "Sum of pT mujj", 300, 75, 435);
 }
 
 
