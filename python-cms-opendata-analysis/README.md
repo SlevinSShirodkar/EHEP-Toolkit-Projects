@@ -1,6 +1,6 @@
 # CMS Open Data Analysis: Z-Boson & Type-III Seesaw Search
 
-This repository contains a Python-based data analysis pipeline using the CMS DoubleMu open dataset to reconstruct Standard Model particles and execute a search for beyond-the-standard-model (BSM) physics.
+This repository contains a Python-based data analysis pipeline using the CMS DoubleMu open dataset to reconstruct Standard Model particles and replicate an elementary search for beyond-the-standard-model (BSM) physics.
 
 ## Analysis Workflow
 * **1)Baseline:** Reconstructed the Standard Model Z-boson mass peak at $\approx 91$ GeV to validate the event-cleaning and vector addition logic. Filtered for events with $\ge 2$ muons, required opposite charges, and restricted the invariant mass to a 60-120 GeV window to suppress low-mass resonances and noise.
