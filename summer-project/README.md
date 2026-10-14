@@ -9,4 +9,6 @@ This repository contains a custom C++ analysis framework built on the ROOT data 
 * **4)Truth-Matching:** Developed logic to match reconstructed leptons to their true generator-level counterparts (GenPart) utilizing $\Delta R$ minimization and tracing parent-child decay lineage (`GenMother`).
 
 ## Process Deduction & Analytical Logic
-Successfully identified the physical processes governing four mystery MC datasets. By iteratively analyzing kinematic distributions (such as $M_{\mu\mu}$ and MET), applying targeted phase-space cuts (e.g., Z-boson mass windows and b-tagging requirements), and cross-referencing multijet and dilepton topologies, I deduced the underlying Standard Model processes purely from the simulated event data.
+Successfully identified the physical processes governing four mystery MC datasets (Labelled A, B, C and D). By iteratively analyzing kinematic distributions (such as $M_{\mu\mu}$ and MET), applying targeted phase-space cuts (e.g., Z-boson mass windows and b-tagging requirements), and cross-referencing multijet and dilepton topologies, I deduced the underlying Standard Model processes purely from the simulated event data.
+
+Few of the plots I generated using the mystery MC samples' information are uploaded to the repository. 
