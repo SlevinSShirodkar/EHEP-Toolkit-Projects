@@ -1,4 +1,4 @@
-# Monte Carlo Process Deduction: C++ ROOT Analysis
+# C++ ROOT Analysis
 
 This repository contains a custom C++ analysis framework built on the ROOT data analysis ecosystem[cite: 8, 12]. The project's primary objective was to independently reverse-engineer and deduce the underlying Feynman diagrams of four unlabelled Monte Carlo (MC) simulation samples by applying fundamental kinematics, particle object selection, and resonance plotting[cite: 12].
 
