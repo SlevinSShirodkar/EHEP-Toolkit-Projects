@@ -17,7 +17,7 @@ This repository is divided into two primary projects, reflecting my experience w
 ## Technical Competencies
 
 * **Languages:** Python, C++
-* **HEP Frameworks:** ROOT, Scikit-HEP (Uproot, Awkward Arrays, Vector)
+* **HEP Frameworks:** ROOT, Uproot, Scikit-HEP (Uproot, Awkward Arrays, Vector)
 * **Physics Concepts:** 4-momentum Lorentz kinematics, invariant mass reconstruction, missing transverse energy (MET), background suppression, phase-space cuts, and Monte Carlo truth-matching.
 
 ***
