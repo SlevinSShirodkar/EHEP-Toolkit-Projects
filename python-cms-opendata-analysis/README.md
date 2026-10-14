@@ -9,7 +9,7 @@ This repository contains a Python-based data analysis pipeline using the CMS Dou
 * **4)Results:** Reduced the dataset to 169 final candidates in the high-mass region.
 
 ## Z-Boson Resonance Reconstruction
-![Z-Boson Mass Peak](z_peak_portfolio.png)
+<img src="z_peak_portfolio.png" alt="Z-Boson Mass Peak" width="400">
 
 ## Technical Competencies
 * **1)Columnar Data Processing:** Utilized `uproot` to read ROOT files directly into Python and `awkward` arrays to efficiently manipulate non-rectangular (jagged) physics event data natively, avoiding computationally expensive loops.
