@@ -7,7 +7,7 @@ Welcome! This repository serves as a portfolio of my data analysis projects in E
 This repository is divided into two primary projects, reflecting my experience with both Python-based columnar analysis and traditional C++/ROOT object-oriented workflows:
 
  **`python-cms-opendata-analysis`** 
-  * **Summary:** A Python-based analysis pipeline using the Scikit-HEP stack (`uproot`, `awkward`, `vector`) to analyze CMS DoubleMu NanoAOD datasets. 
+  * **Summary:** A Python-based analysis pipeline using the Scikit-HEP stack (`uproot`, `awkward`, `vector`) to analyze CMS DoubleMu open datasets. 
   * **Highlights:** Reconstructs the Standard Model Z-boson mass resonance and executes a search for beyond-the-standard-model (BSM) physics (heavy Type-III Seesaw fermions) via rare three-muon decay chains. Demonstrates efficient, loopless columnar data processing.
 
  **`summer-project`**
