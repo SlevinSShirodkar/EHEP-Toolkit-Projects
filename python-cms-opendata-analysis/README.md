@@ -8,7 +8,8 @@ This repository contains a Python-based data analysis pipeline using the CMS Dou
 * **3)Kinematic Cuts:** Filtered for rare events with $\ge 3$ muons and applied strict physical charge consistency. Implemented a scalar sum of transverse momenta cut of $L_T > 500$ GeV to eliminate soft backgrounds, and identified Z-boson candidates by requiring the lower-energy muons to fall within an 80-100 GeV mass window.
 * **4)Results:** Reduced the dataset to 169 final candidates in the high-mass region.
 
-The Z-Boson mass peak plot is uploaded to the repository as "z_peak_portfolio.png"
+## Z-Boson Resonance Reconstruction
+![Z-Boson Mass Peak](z_peak_portfolio.png)
 
 ## Technical Competencies
 * **1)Columnar Data Processing:** Utilized `uproot` to read ROOT files directly into Python and `awkward` arrays to efficiently manipulate non-rectangular (jagged) physics event data natively, avoiding computationally expensive loops.
